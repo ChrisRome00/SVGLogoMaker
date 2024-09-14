@@ -1,7 +1,7 @@
 # SVG Logo Maker
 
 ## Link to video:
-
+https://drive.google.com/file/d/1UTIJNRHNforNjrnryt-GlInsSW65oMOm/view?usp=sharing 
 
 ## Description
 
